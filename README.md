@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of essen
 
 ## Contents
 
-- **NLTK (Natural Language Toolkit):** Dive into the world of natural language processing with NLTK, a leading platform for building Python programs to work with human language data.
+- [NLTK (Natural Language Toolkit)](https://github.com/ryghrmni/MyPyLibs/blob/main/NLTK/nltk_tutorial.ipynb): Dive into the world of natural language processing with NLTK, a leading platform for building Python programs to work with human language data.
 
 - **Pandas:** Explore the powerful data manipulation and analysis capabilities of Pandas, a versatile library for working with structured data.
 
